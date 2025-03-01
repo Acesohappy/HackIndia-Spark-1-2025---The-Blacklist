@@ -1,9 +1,11 @@
 # HackIndia-Spark-1-2025---The-Blacklist
-##TerraSafe- AI-Powered Human-Wildlife Conflict Mitigation System##
+
+TerraSafe- AI-Powered Human-Wildlife Conflict Mitigation System
 
 Preview of the animal detection system: https://dulcet-gingersnap-448497.netlify.app/
 
 PROJECT ABSTRACT:
+
 TerraSafe is an innovative, AI-driven solution designed to predict, prevent, and manage human-wildlife conflicts through real-time monitoring, predictive analytics, and community engagement. As habitat encroachment and climate change intensify human-wildlife interactions, conflicts are becoming more frequent, leading to loss of life, property damage, and harm to biodiversity. TerraSafe addresses these challenges by integrating cutting-edge technologies to provide a proactive, data-driven approach to conflict mitigation.
 The system leverages a network of motion detectors, cameras, and GPS collars to monitor wildlife movements in real-time.
 
